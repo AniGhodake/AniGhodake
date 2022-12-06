@@ -1,4 +1,4 @@
-![MasterHead](https://imgs.search.brave.com/X3Fpn3ApD6M7OopwvxWlNURvbqB91JwEfVzatjE6TgM/rs:fit:940:400:1/g:ce/aHR0cDovL2RpZ2l0/YWxtYXJrZXRpbmd0/cmVuZHMuaW4vd3At/Y29udGVudC91cGxv/YWRzLzIwMTgvMDUv/RGlnaXRhbC1BZHZl/cnRpc2luZy1naWYu/Z2lm.gif)(https://imgs.search.brave.com/4N__2t4EabwsjBsYPtwgwc5DOXxMPJJOdkNhhNQjC7k/rs:fit:1117:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5z/d2p6SGVoVEt1WEhQ/bWk2NjlCOVRRSGFE/SiZwaWQ9QXBp))
+![MasterHead](https://imgs.search.brave.com/X3Fpn3ApD6M7OopwvxWlNURvbqB91JwEfVzatjE6TgM/rs:fit:940:400:1/g:ce/aHR0cDovL2RpZ2l0/YWxtYXJrZXRpbmd0/cmVuZHMuaW4vd3At/Y29udGVudC91cGxv/YWRzLzIwMTgvMDUv/RGlnaXRhbC1BZHZl/cnRpc2luZy1naWYu/Z2lm.gif)
 <h1 align="center">Hi 👋, I'm Aniket Ghodake</h1>
 <h3 align="center">A Passionate Software Developer From India.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.webcabal.com/wp-content/uploads/2022/02/developer.gif">
