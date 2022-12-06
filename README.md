@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/qJ5evVs-_uUAAAAd/coding.gif)
+![MasterHead](https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
 <h1 align="center">Hi 👋, I'm Aniket Ghodake</h1>
 <h3 align="center">A Passionate Software Developer From India.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.webcabal.com/wp-content/uploads/2022/02/developer.gif">
