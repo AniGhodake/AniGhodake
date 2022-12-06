@@ -1,4 +1,4 @@
-![MasterHead](https://imgs.search.brave.com/rwd5eECQPdcfebyQmA1rU53LIRmZP5S-X925Faer1uQ/rs:fit:500:270:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/cHJveHkvMCpCQlRD/NEZYS2lfcWlFY1pP/LmdpZg.gif)
+![MasterHead](https://imgs.search.brave.com/NH5umsnMQJCd4gGrd4NvWMZPMCEaamVHGl0YrUXGmbU/rs:fit:1200:1200:1/g:ce/aHR0cDovL3N5bmVy/Z3lmb3JpdC5jb20v/aW1nL3dlYiUyMGRl/dmVsb3BtZW50Lmdp/Zg.gif)
 <h1 align="center">Hi 👋, I'm Aniket Ghodake</h1>
 <h3 align="center">A Passionate Software Developer From India.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.webcabal.com/wp-content/uploads/2022/02/developer.gif">
