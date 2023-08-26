@@ -1,11 +1,12 @@
 ------------------------------![MasterHead](https://github.com/AniGhodake/HackerRank/blob/master/coding.gif)------------------------------
 
-
+<h1 align="center">Hi, I'm Aniket Ghodake</h1>
+<h3 align="center">A Passionate Software Developer From India.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.webcabal.com/wp-content/uploads/2022/02/developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anighodake&label=Profile%20views&color=0e75b6&style=flat" alt="anighodake" /> </p>
-Hello, my name is Aniket.
+
 
 I'm a Computer Science M.Sc. graduate with a stellar 7.95 CGPA, dedicated to innovative software development. Proficient in C, C++, Java, and skilled in web technologies like HTML5, CSS3, JavaScript, Bootstrap4. My academic journey showcased bridging theory to practical applications. Let's connect to drive innovation together!
 
