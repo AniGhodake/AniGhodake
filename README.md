@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anighodake&label=Profile%20views&color=0e75b6&style=flat" alt="anighodake" /> </p>
 
 
-
+I'm a Computer Science M.Sc. graduate with a stellar 7.95 CGPA, dedicated to innovative software development. Proficient in C, C++, Java, and skilled in web technologies like HTML5, CSS3, JavaScript, Bootstrap4. My academic journey showcased bridging theory to practical applications. Let's connect to drive innovation together!
 
 - 💬 Ask me about **DSA , Java, Python, C, C++, JavaScript**
 
