@@ -1,6 +1,6 @@
 ------------------------------![MasterHead](https://github.com/AniGhodake/HackerRank/blob/master/coding.gif)------------------------------
 
-<h1 align="center">Hi, I'm Aniket Ghodake</h1>
+Hi, I'm Aniket Ghodake
 <h3 align="center">A Passionate Software Developer From India.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.webcabal.com/wp-content/uploads/2022/02/developer.gif">
