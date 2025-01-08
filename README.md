@@ -1,4 +1,4 @@
-------------------------------![MasterHead](https://github.com/AniGhodake/HackerRank/blob/master/coding.gif)------------------------------
+------------------------------![MasterHead](https://github.com/AniGhodake/HackerRank/blob/master/coding.gif)----------------------------
 
 Hi, I'm **<h3>Aniket Ghodake</h3>**
 <p><i>A Passionate Software Developer From India.</i></p>
